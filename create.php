@@ -135,7 +135,7 @@ SET name=:name, description=:description,
                 </tr>
                 <tr>
                     <td>Price</td>
-                    <td><input type='text' name='price' value="<?php echo htmlspecialchars($price, ENT_QUOTES); ?>" class='form-control' /></td>
+                    <td>$<input type='text' name='price' value="<?php echo htmlspecialchars($price, ENT_QUOTES); ?>" class='form-control' /></td>
                 </tr>
                 <tr>
                     <td>Photo</td>
