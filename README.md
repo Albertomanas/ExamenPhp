@@ -68,3 +68,10 @@ $file_type // Tipo de la imagen, por ejemplo "JPG", "JPEG", "PNG" ..etc.
 
 $tmp_name // El nombre de dicha imagen para hacer referencia a ella.
 ```
+
+
+## Ejercicio 6:
+Para actualizar la imagen hay que modificar ```update.php``` hay que añadir la imagen para poder realizar el select de la query.
+
+Además, hay que crear el row para updatear la query y así realizar el método post de la imagen.
+Por otro lado, es necesario añadir el parametro de la imagen para añadir el tr que contendrá la imagen.
