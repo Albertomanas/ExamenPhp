@@ -75,3 +75,8 @@ Para actualizar la imagen hay que modificar ```update.php``` hay que añadir la 
 
 Además, hay que crear el row para updatear la query y así realizar el método post de la imagen.
 Por otro lado, es necesario añadir el parametro de la imagen para añadir el tr que contendrá la imagen.
+
+
+
+## Acceso al servidor remoto
+[servidor](http://albertoserver.hopto.org/trabajos/trabajoCrudDB/index.php)
